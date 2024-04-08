@@ -1,0 +1,77 @@
+Q: I am not able to create a database password?
+A: Make sure the password you enter satisfies the following restrictions
+
+====
+
+Q: I am not able to connect to a noVNC server
+A: Are you connected to a VPN, Corporate Network, or behind a strict Firewall? If any of these three conditions are true, some ports in your network may be closed to traffic. Uploading data through Database Actions in your web browser and applications like the Oracle Analytics Tool could be restricted and may appear to "Hang" or freeze. Please disconnect from your VPN and try again if applicable. If you are connected to a corporate network, try switching to a public or a "clear" network if allowed. Alternatively, contact your IT Administrator to see if adding exceptions to your network or firewall would be viable.
+
+====
+
+Q: How many workshops are available?
+A: You can always look at the workshop catalog to see how many workshops are available
+
+====
+
+Q: Can I get help for a specific workshop?
+A: You can find common issues for specific workshops in the 'Need help?' section of a particular workshop
+
+=====
+
+Q: I have a great workshop idea - can I submit it?
+A: Please send us a email to livelabs-help_us@oracle.com
+
+=====
+
+Q: How long do I have access to a workshop environment?
+A: You can always see the remaining time in the top right corner of the browser. You can also extend the available time.
+
+=====
+
+Q: I am not able to provision a compute instance
+A: Make sure that you are in the correct compartment (see Need Help?)
+
+=====
+
+
+Q: I am not able to login to Cloud Shell
+A: Make sure that you are in the correct compartment (see Need Help?)
+
+=====
+
+Q: I have forgotten my LiveLabs Sandbox password. Can I reset it?
+A: Yes you can reset the password. Find instructions in the Need Help section
+
+=====
+
+Q: I am not able to provision a database
+A: Make sure that you are in the correct compartment (see Need Help?)
+
+=====
+
+Q: I am not able to login using ssh
+A: Follow the instructions on ssh keys in Need Help section
+
+=====
+
+Q: Is LiveLabs free?
+A: Yes! - LiveLabs is free for everyone. Spread the word!
+
+=====
+
+Q: How do I create an Oracle account?
+A: You can create an Oracle Account here:
+
+=====
+
+
+Q: I don't see the database I just created
+A: Make sure you are in the correct compartment (see Need Help?)
+
+=====
+
+Q: How can I login to the LiveLabs Sandbox.
+A: The workshop should contain detailed instructions. In a nutshell: Under 'My Reservations', click 'Launch' to start the workshop. Then you can find in the top left corner a 'Login' button. Click it and you will get your personal login information. Good luck!
+
+=====
+
