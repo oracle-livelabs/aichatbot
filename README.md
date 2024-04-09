@@ -4,6 +4,10 @@
 ---
 LiveLabs is the place to explore Oracle's products and services using workshops designed to enhance your experience building and deploying applications on the Cloud and On-Premises.   Our library of workshops cover everything from how to provision the world's first autonomous database to setting up a webserver on OCI, machine learning and much more.  Use your existing Oracle Cloud account, a Free Tier account, or a LiveLabs Sandbox Reservation to build, test, and deploy applications on Oracle's Cloud.
 
+## Scope and purpose
+This repo hosts the FAQ files our Generative AI chatbot DOrA (Digital Oracle Assistant) is using as part of it's "memory banks".
+
+
 ### How do I get started?
 Visit [LiveLabs](https://developer.oracle.com/livelabs) now to get started.  Workshops are added weekly, please visit frequently for new content.
 
