@@ -1,10 +1,13 @@
-Q: I am not able to create a database password?
+Q: What is a good workshop to start with?
+A: If you have 15 minutes, I recommend starting with 'Autonomous Database 15 Minute Quick Start'. In it, you learn how to provision your first ADB instance, load data, and fire your first SQL commands. Another good one is 'Get Started with Oracle Cloud Infrastructure Core Services'. The best workshop to learn the basics about OCI. Here are the URL: Get Started with Oracle Cloud Infrastructure Core Services-https://apexapps.oracle.com/pls/apex/f?p=133:180:4845895269619::::wid:648 and Autonomous Database 15 Minute Quick Start - https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=928
+
+Q: I am not able to create a database password.
 A: Make sure the password you enter satisfies the following restrictions
 
 ====
 
 Q: I am not able to connect to a noVNC server
-A: Are you connected to a VPN, Corporate Network, or behind a strict Firewall? If any of these three conditions are true, some ports in your network may be closed to traffic. Uploading data through Database Actions in your web browser and applications like the Oracle Analytics Tool could be restricted and may appear to "Hang" or freeze. Please disconnect from your VPN and try again if applicable. If you are connected to a corporate network, try switching to a public or a "clear" network if allowed. Alternatively, contact your IT Administrator to see if adding exceptions to your network or firewall would be viable.
+A: Are you connected to a VPN or corporate network or behind a strict firewall? If any of these three conditions are true, some ports in your network may be closed to traffic. Uploading data through Database Actions in your web browser and applications like the Oracle Analytics Tool could be restricted and may appear to "Hang" or freeze. Please disconnect from your VPN and try again if applicable. If you are connected to a corporate network, try switching to a public or a "clear" network if allowed. Alternatively, contact your IT Administrator to see if adding exceptions to your network or firewall would be viable.
 
 ====
 
@@ -19,38 +22,38 @@ A: You can find common issues for specific workshops in the 'Need help?' section
 =====
 
 Q: I have a great workshop idea - can I submit it?
-A: Please send us a email to livelabs-help_us@oracle.com
+A: Please send us an email to livelabs-help_us@oracle.com
 
 =====
 
 Q: How long do I have access to a workshop environment?
-A: You can always see the remaining time in the top right corner of the browser. You can also extend the available time.
+A: The remaining time is always displayed in the top right corner of the browser. You can also extend the available time.
 
 =====
 
 Q: I am not able to provision a compute instance
-A: Make sure that you are in the correct compartment (see Need Help?)
+A: Please make sure you are in the correct compartment (see Need Help?)
 
 =====
 
 
 Q: I am not able to login to Cloud Shell
-A: Make sure that you are in the correct compartment (see Need Help?)
+A: Please make sure you are in the correct compartment (see Need Help?)
 
 =====
 
-Q: I have forgotten my LiveLabs Sandbox password. Can I reset it?
-A: Yes you can reset the password. Find instructions in the Need Help section
+Q: I need to remember my LiveLabs Sandbox password. Do you know if I can reset it?
+A: Yes, you can reset the password. Find instructions in the Need Help section
 
 =====
 
 Q: I am not able to provision a database
-A: Make sure that you are in the correct compartment (see Need Help?)
+A: Please make sure you are in the correct compartment (see Need Help?)
 
 =====
 
 Q: I am not able to login using ssh
-A: Follow the instructions on ssh keys in Need Help section
+A: Follow the instructions on SSH keys in the Need Help section
 
 =====
 
@@ -66,12 +69,12 @@ A: You can create an Oracle Account here:
 
 
 Q: I don't see the database I just created
-A: Make sure you are in the correct compartment (see Need Help?)
+A: Ensure you are in the correct compartment (see Need Help?)
 
 =====
 
-Q: How can I login to the LiveLabs Sandbox.
-A: The workshop should contain detailed instructions. In a nutshell: Under 'My Reservations', click 'Launch' to start the workshop. Then you can find in the top left corner a 'Login' button. Click it and you will get your personal login information. Good luck!
+Q: How can I log in to the LiveLabs Sandbox?
+A: The workshop should contain detailed instructions. In a nutshell: Under 'My Reservations,' click 'Launch' to start the workshop. Then, you can find a Login' button in the top left corner. Click it, and you will get your personal login information. Good luck!
 
 =====
 
