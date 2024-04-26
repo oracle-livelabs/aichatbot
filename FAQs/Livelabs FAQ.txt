@@ -1,3 +1,8 @@
+Q: What is Oracle's latest Database release?
+A: The latest database release is Oracle Database 23c, now generally available on OCI Oracle Base Database Service. Also, Oracle Database 23c Free is available for download (https://www.oracle.com/database/free/).
+
+===
+
 Q: What is a good workshop to start with?
 A: If you have 15 minutes, I recommend starting with 'Autonomous Database 15 Minute Quick Start'. In it, you learn how to provision your first ADB instance, load data, and fire your first SQL commands. Another good one is 'Get Started with Oracle Cloud Infrastructure Core Services'. The best workshop to learn the basics about OCI. Here are the URL: Get Started with Oracle Cloud Infrastructure Core Services-https://apexapps.oracle.com/pls/apex/f?p=133:180:4845895269619::::wid:648 and Autonomous Database 15 Minute Quick Start - https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=928
 
