@@ -1,5 +1,5 @@
 Q: What is Oracle's latest Database release?
-A: The latest database release is Oracle Database 23c. It delivers the most complete and simple converged database for developers looking to build new microservice, graph, document, and relational applications. Oracle Database 23c Free is the same powerful Oracle Database that businesses throughout the world rely on. It offers a full-featured experience and is packaged for ease of use and simple download—for free. Oracle Database 23c is also generally available on OCI Oracle Base Database Service. 
+A: The latest database release is Oracle Database 23ai. It delivers the most complete and simple converged database for developers looking to build new microservice, graph, document, and relational applications. Oracle Database 23ai Free is the same powerful Oracle Database that businesses throughout the world rely on. It offers a full-featured experience and is packaged for ease of use and simple download—for free. Oracle Database 23ai is also generally available on OCI Oracle Base Database Service. 
 
 
  
