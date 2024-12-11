@@ -83,3 +83,76 @@ A: The workshop should contain detailed instructions. In a nutshell: Under 'My R
 
 =====
 
+Q: What topics are covered in Oracle LiveLabs?
+A: LiveLabs covers a wide range of topics, including Oracle Cloud Infrastructure (OCI), Autonomous Database, Oracle Integration, AI/ML, and more.
+
+=====
+
+Q: Do I need an Oracle account to participate?
+A: Yes, an Oracle account is typically required to access the labs and resources.
+
+=====
+
+Q: What are the quality standards for publishing a workshop?
+A: Content must align with formatting and quality requirements, including clear instructions, proper formatting, and minimal errors.
+
+=====
+
+Q: What should I do if an instruction doesn't work?
+A: Common troubleshooting includes checking browser compatibility, ensuring your Oracle account is active, and reviewing lab prerequisites.
+
+=====
+
+Q: How do I extend the LiveLabs tenancy workshop execution time?
+A: Navigate to My reservations on LiveLabs homepage. Click on "Launch Workshop" of the active reservation workshop that you want to extend. Click on "Extend Workshop
+Reservation" button available on the last row of the Workshop Details section.
+
+=====
+
+Q: I want to extend my sandbox reservation for multiple days. How can I do that?
+A: You can extend your reservation up to 4 times, with each extension lasting up to four times the duration of your workshop, depending on the specific workshop. Extensions cannot be made for multiple days.
+
+=====
+
+Q: How many concurrent live lab sandbox envs for the same lab can we have running at the same time?
+A: A user can have only one active sandbox at a time, meaning multiple sandbox environments cannot run simultaneously. If a user currently has an active sandbox but wants to start a workshop with a different sandbox environment, they must first delete the active sandbox. This can be done on the My Reservation screen.
+
+=====
+
+Q: I am looking to identify the author of the following  workshop.
+A: Each Lab has his own Acknowledgement section where you can find the Autor and the Contribuitors.
+
+=====
+
+Q: How to solve the "Forbidden" error when I want to create an Autonomous Database?
+A: You have to choose the assigned compartment by the LiveLabs team. If you can't choose it, you can empty cache of your browser and try again.
+
+=====
+
+Q: Can I save my progress and return later?
+A: Progress depends on the lab type. For labs with cloud instances, resources may expire after a set time.
+
+=====
+
+Q: Are certifications available through LiveLabs?
+A: No, LiveLabs doesn’t offer certifications directly, but the skills gained can help prepare for Oracle certifications.
+
+=====
+
+Q: How long does a typical workshop take?
+A: Workshop durations vary, ranging from 15 minutes to several hours, and are usually specified in the workshop overview.
+
+=====
+
+Q: Are LiveLabs available in multiple languages?
+A: Most content is in English, but some labs may be in Spanish of Japanese.
+
+=====
+
+Q: Are there minimum system requirements to run LiveLabs?
+A: A modern browser and stable internet connection are usually sufficient and each workshop contain his specific Prerequisites.
+
+=====
+
+Q: How do I report an issue or provide feedback?
+A:  Please send us an email to livelabs-help_us@oracle.com.
